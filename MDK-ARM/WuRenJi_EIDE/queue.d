@@ -1,0 +1,15 @@
+wurenji_eide\queue.o: ..\Mid\FreeRTOS\Source\queue.c
+wurenji_eide\queue.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+wurenji_eide\queue.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+wurenji_eide\queue.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wurenji_eide\queue.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/FreeRTOSConfig.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/include/projdefs.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/include/portable.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/Portable/portmacro.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/include/task.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/include/list.h
+wurenji_eide\queue.o: ../Mid/FreeRTOS/include/queue.h

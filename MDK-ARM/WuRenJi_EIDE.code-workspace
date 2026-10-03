@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "com_pid.h": "c",
+            "com_types.h": "c",
+            "com_debug.h": "c",
+            "app_task.h": "c",
+            "app_motor.h": "c"
+        }
+    },
+    "extensions": {}
+}
